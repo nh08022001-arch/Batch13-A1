@@ -22,9 +22,7 @@ nav .btn{
     color: white;
     background-color: green;
 }
-/*#hero{
-    text kivhabe imge er upoe nibo partechina
-}*/
+/*#hero*/
 .box-container {
   max-width: 1350px;
   margin: auto;
@@ -50,4 +48,16 @@ nav .btn{
 .card p {
   font-size: 16px;
 }
+.sbrain-container{
+    display: flex;
+    margin: 120px 120px;
+    align-items: center;
+}
+.list-item{
+    margin-top: 20px;
+    list-style: circle;
 
+}
+.sbrain-texts{
+    align-items: center;
+}
