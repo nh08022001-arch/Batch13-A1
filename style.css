@@ -22,10 +22,32 @@ nav .btn{
     color: white;
     background-color: green;
 }
-#hero .hero-contant{
-    height: 100vh;
-    background-image: image(assets/hero-bg.png");
-    background-size: cover;
-    background-position: center;
-position: relative;
+/*#hero{
+    text kivhabe imge er upoe nibo partechina
+}*/
+.box-container {
+  max-width: 1350px;
+  margin: auto;
+  text-align: center;
 }
+.box h2 {
+  font-size: 40px;
+}
+.cards {
+  display: flex;
+  gap: 16px;
+}
+.card {
+  padding: 40px 24px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
+}
+.card h3 {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.card p {
+  font-size: 16px;
+}
+
