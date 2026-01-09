@@ -22,7 +22,7 @@ nav .btn{
     color: white;
     background-color: green;
 }
-/*#hero*/
+/*#hero text gulo kivhabe image er upore nibo?*/
 .box-container {
   max-width: 1350px;
   margin: auto;
@@ -61,3 +61,17 @@ nav .btn{
 .sbrain-texts{
     align-items: center;
 }
+.eaccess{
+    margin: 80px 120px;
+    padding: 80px 40px 80px 40px;
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.808);
+    gap: 24;
+}
+.eaccess-button{
+    width: 132px;
+    height: 19px;
+    color: white;
+    justify-content: center;
+}
+
